@@ -9,3 +9,6 @@ This model was trained on our dataset that we stored on [Kaggle](https://bit.ly/
 | Model structure   | Pre Trained MobileNetV2, MaxPooling2D, Flatten, Dense, Dense (softmax) |
 | Model input       | Image that already converted to array with rescale 1./255 |
 | Model output      | Softmax values [0, 1, 2, ..., 9]                    |
+
+
+C23-PC637 ML Teams.
